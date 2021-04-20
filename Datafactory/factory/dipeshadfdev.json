@@ -1,0 +1,9 @@
+{
+	"name": "dipeshadfdev",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7f0d393e-857f-47e3-8243-f412c8b2f13c",
+		"tenantId": "13295335-75eb-4580-836a-81dfa0a1b881"
+	}
+}
